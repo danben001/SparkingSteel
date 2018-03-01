@@ -8,7 +8,7 @@ This game was developed for my final year college project using Unity (in C#) fo
 
 [![SparkingSteelVid](https://img.youtube.com/vi/kirRDXN1SuA/0.jpg)](https://www.youtube.com/watch?v=kirRDXN1SuA)]
 
-<b>A poster image drawn using SAI and Photoshop<\b>
+<b>A poster image drawn using SAI and Photoshop</b>
   
 ![SparkingSteelOne](https://raw.githubusercontent.com/danben001/SparkingSteel/master/Images/poster.png)
 
