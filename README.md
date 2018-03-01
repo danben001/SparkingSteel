@@ -42,20 +42,20 @@ control the game with a Keyboard. An Xbox 360 mapping type controller should be 
 <b>Assets/ButtonAnimations.cs</b>
 Controls the majority of the Player Mech's functionality
 
-<b>Assets/EnemyAI.cs<\b>
+<b>Assets/EnemyAI.cs</b>
 Controls the majority of the Enemy AI
 
-<b>Assets/PlayerHealth.cs<\b>
+<b>Assets/PlayerHealth.cs</b>
 Manages and updates the player's health
 
-<b>Assets/EnemyHealth.cs<\b>
+<b>Assets/EnemyHealth.cs</b>
 Manages and updates the enemy's health
 
-<b>Assets/OVR/Scripts/Util/OVRPlayerController.cs<\b>
+<b>Assets/OVR/Scripts/Util/OVRPlayerController.cs</b>
 A script which came with the Oculus Unity package. Has been modified to include
 the dodging functionality refered to as "dash" within the code. Properties have also been changed to get the 
 desired speed, turning speed etc. from the controls.
 
 
-<b>Assets/Plugins/Android/Assets<\b>
+<b>Assets/Plugins/Android/Assets</b>
 An oculus sig file must be placed here for your own personal phone if you want to run a build of this project from the Unity Editor on your device
