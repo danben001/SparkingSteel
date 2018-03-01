@@ -1,7 +1,7 @@
 # SparkingSteel
 
 If you are playing the game on the Unity editor, you will not be able to properly
-control the game with a Keyboard. An Xbox 360 mapPED type controller should be used
+control the game with a Keyboard. An Xbox 360 mapping type controller should be used
 
 Assets/ButtonAnimations.cs
 
