@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 9731b7f69f262f5489b158e537d5ed5b
+timeCreated: 1493666068
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature_001
+    100002: //RootNode
+    100004: Bone
+    100006: Bone_001
+    100008: Bone_L
+    100010: Bone_L_001
+    100012: Bone_L_003
+    100014: Bone_L_004
+    100016: Bone_L_005
+    100018: Bone_L_007
+    100020: Bone_R
+    100022: Bone_R_001
+    100024: Bone_R_003
+    100026: Bone_R_004
+    100028: Bone_R_005
+    100030: Bone_R_007
+    100032: Cockpit_Cover
+    100034: Cockpit_Cover_001
+    100036: Cockpit_Cover_002
+    100038: Left_Fist
+    100040: pole_tar_l
+    100042: pole_tar_r
+    100044: Right_Fist
+    100046: Upper_Left
+    100048: Upper_Right
+    400000: Armature_001
+    400002: //RootNode
+    400004: Bone
+    400006: Bone_001
+    400008: Bone_L
+    400010: Bone_L_001
+    400012: Bone_L_003
+    400014: Bone_L_004
+    400016: Bone_L_005
+    400018: Bone_L_007
+    400020: Bone_R
+    400022: Bone_R_001
+    400024: Bone_R_003
+    400026: Bone_R_004
+    400028: Bone_R_005
+    400030: Bone_R_007
+    400032: Cockpit_Cover
+    400034: Cockpit_Cover_001
+    400036: Cockpit_Cover_002
+    400038: Left_Fist
+    400040: pole_tar_l
+    400042: pole_tar_r
+    400044: Right_Fist
+    400046: Upper_Left
+    400048: Upper_Right
+    4300000: Upper_Left
+    4300002: Cockpit_Cover_001
+    4300004: Cockpit_Cover_002
+    4300006: Cockpit_Cover
+    4300008: Left_Fist
+    4300010: Right_Fist
+    4300012: Upper_Right
+    7400000: Default Take
+    7400002: BigBangPunchL
+    7400004: BigBangPunchR
+    7400006: BigBangUpperL
+    7400008: DodgeB
+    7400010: DodgeL
+    7400012: DodgeR
+    7400014: HitSwingLeft
+    7400016: HitSwingLeftBlank
+    7400018: HitSwingRight
+    7400020: HitSwingRightBlank
+    7400022: Idle
+    7400024: Idle_001
+    7400026: Jump
+    7400028: Punch_L_Edit
+    7400030: Punch_L_Fast2
+    7400032: Punch_L_Forward
+    7400034: Punch_L_Hard_1
+    7400036: Punch_L_Hard_2
+    7400038: Punch_L_Repeat
+    7400040: Punch_R
+    7400042: Punch_R_Edit
+    7400044: Punch_R_Edit_001
+    7400046: Punch_R_Fast
+    7400048: Punch_R_Fast2
+    7400050: Punch_R_Forward
+    7400052: Punch_R_Hard_1
+    7400054: Punch_R_Hard_2
+    7400056: Punch_R_Repeat
+    7400058: Punch_R_Test
+    7400060: Run
+    7400062: test
+    7400064: Walk
+    7400066: Walk_001
+    7400068: WalkLeft
+    7400070: WalkRight
+    7400072: DodgeF
+    7400074: Destroyed
+    9500000: //RootNode
+    13700000: Cockpit_Cover
+    13700002: Cockpit_Cover_001
+    13700004: Cockpit_Cover_002
+    13700006: Left_Fist
+    13700008: Right_Fist
+    13700010: Upper_Left
+    13700012: Upper_Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
