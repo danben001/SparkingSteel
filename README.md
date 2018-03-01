@@ -4,27 +4,33 @@ Sparking Steel is a VR game in which you control a giant robot inside its cockpi
 
 This game was developed for my final year college project using Unity (in C#) for the game engine, physics, effects and AI. Blender was used to build the models and animations.
 
-Click the below image for a youtube video demo (This is footage from an earlier build. Video Not VR compatible)
+<b>Click the below image for a youtube video demo (This is footage from an earlier build. Video Not VR compatible)</b>
+
 [![SparkingSteelVid](https://img.youtube.com/vi/kirRDXN1SuA/0.jpg)](https://www.youtube.com/watch?v=kirRDXN1SuA)]
 
-A poster image drawn using SAI and Photoshop
+<b>A poster image drawn using SAI and Photoshop<\b>
+  
 ![SparkingSteelOne](https://raw.githubusercontent.com/danben001/SparkingSteel/master/Images/poster.png)
 
+<b>The controls. This is displayed for a short period of time in the cockpit when the game is first booted up</b>
 
-The controls. This is displayed for a short period of time in the cockpit when the game is first booted up
 ![SparkingSteelTwo](https://raw.githubusercontent.com/danben001/SparkingSteel/master/Images/sparkingUI.png)
 
-The player's robot is only partially rendered as the inside of the cockpit and the arms are all the player sees! This was done to save
-space on the phone's memory as well as to not use excess phone resources (especially for a demanding game like this which also needs to run smoothly to ensure it is comfortable to play)
+<b>The player's robot is only partially rendered as the inside of the cockpit and the arms are all the player sees! This was done to save
+space on the phone's memory as well as to not use excess phone resources (especially for a demanding game like this which also needs to run smoothly to ensure it is comfortable to play)</b>
+
 ![SparkingSteelThree](https://raw.githubusercontent.com/danben001/SparkingSteel/master/Images/sparking.png)
 
-Building the model and animation skeleton of the player robot in Blender
+<b>Building the model and animation skeleton of the player robot in Blender</b>
+
 ![SparkingSteelFour](https://raw.githubusercontent.com/danben001/SparkingSteel/master/Images/sparkingmodel.png)
 
-Animating the player robot. Conveying a sense of weight and energy in movements is important!
+<b>Animating the player robot. Conveying a sense of weight and energy in movements is important!</b>
+
 ![SparkingSteelFive](https://raw.githubusercontent.com/danben001/SparkingSteel/master/Images/sparkinganimation.png)
 
-The Opponent mech. Also animated and modeled in Blender. I programmed its AI to follow the player and choose its actions based on the distance it is from the player and the current state it is in (Running, Walking, Countering the Player's moves)
+<b>The Opponent mech. Also animated and modeled in Blender. I programmed its AI to follow the player and choose its actions based on the distance it is from the player and the current state it is in (Running, Walking, Countering the Player's moves)</b>
+
 ![SparkingSteelSix](https://raw.githubusercontent.com/danben001/SparkingSteel/master/Images/sparkingenemy.png)
 
 
